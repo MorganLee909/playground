@@ -11,19 +11,10 @@ div{
     justify-content: space-around;
     position: relative;
     color: white;
-    background: rgba(255, 0, 0, 0.2);
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.P12i5AioSskqNngbTQ1ndQHaLG%26pid%3DApi&f=1&ipt=38ea53bb255c7cdfe72f15d635546442605973efc1d9820880edf58455e47733&ipo=images");
+    background-image: url("../pic.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+    z-index: 10;
 }
 
 h1, p{
